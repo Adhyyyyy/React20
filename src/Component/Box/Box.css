@@ -1,0 +1,30 @@
+.boxImg{
+    border-radius: 10px;
+    
+}
+.box {
+    background-color: aquamarine;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 250px;
+    justify-content: space-evenly;
+    padding: 10px;
+    box-sizing: border-box;
+    border-radius: 10px;
+}
+
+.boxTxt{
+    display: flex;
+    background-color:aquamarine;
+    width: 200px;
+    justify-content: space-between;
+    align-items: center;
+}
+#btn{
+    border: none;
+    width: 200px;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: gold;
+}

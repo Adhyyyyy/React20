@@ -1,0 +1,29 @@
+.navbar{
+    background-color: gold;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 0 20px;
+}
+#nimg{
+    width: 80px;
+}
+.menu{
+    display: flex;
+
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+.m{
+    margin: 0 80px;
+    list-style-type: none;
+    font-size: 18px;
+    font-weight: 500;
+}
+.m:hover{
+    cursor: pointer;
+}
+.sup{
+    width: 1000px;    
+}
